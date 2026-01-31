@@ -1,0 +1,4 @@
+ddddocr
+pycryptodome
+PyExecJS
+requests
