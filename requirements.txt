@@ -1,0 +1,8 @@
+ddddocr
+lxml
+pychaosvm --index-url https://aioqzone.github.io/aioqzone-index/simple
+pycryptodome
+PyExecJS
+pyjsparser
+requests
+typing_extensions
